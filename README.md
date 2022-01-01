@@ -1,8 +1,8 @@
 # Tailwinds_CSS
 
- Install Nodejs 
- npm install -D tailwindcss postcss autoprefixer
- npm install vite
- package.json -- add in debug -- start -- "vite" 
- npx tailwindcss init 
- In tailwinds.configg add * in content
+ <p>Install Nodejs </p> <br>
+<p> npm install -D tailwindcss postcss autoprefixer </p> <br>
+ <p> npm install vite</p>  <br>
+ <p> package.json -- add in debug -- start -- "vite" </p>  <br>
+ <p> npx tailwindcss init </p>  <br> 
+ <p> In tailwinds.configg add * in content</p>  <br>
